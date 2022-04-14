@@ -1,5 +1,7 @@
-# awesome-polarization-in-vision
+# polarization-in-computer-vision
 A collection of polarization-based models in computer vision, including shape from polarization, polarization-based reflection removal.
+
+Fork from ChenyangLEI's work. 
 
 # [Table of Contents]()
 
@@ -98,6 +100,10 @@ A curated set of papers along with code.
 
 ## Datasets
 
+* PolarLITIS dataset[[More]](https://pagesperso.litislab.fr/rblin/databases/)
+
+   Format: (I0, I45, I135), (S0, S1, S2),(S0, AOP, DOP)   Task: Object detection   Num.:2K+ Polar/RGB  Other:  good and adverse weather conditions
+* PolarBot dataset[[More]](https://pagesperso.litislab.fr/rblin/databases/)
 
 
 ## Workshops
