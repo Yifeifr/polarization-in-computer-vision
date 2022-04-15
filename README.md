@@ -6,9 +6,9 @@ A collection of polarization-based models in computer vision. Main interest lies
 
 * [Papers and Code](#Papers-and-Code)
 * [Books](#Books)
-* [Lecture Videos]()
+* [Lecture Videos](#Lecture-Videos)
 * [Datasets](#Datasets)
-* [Workshops](#Workshops)
+* [Tools](#Tools)
 * [Research groups](#Research-groups)
 
 
@@ -48,7 +48,6 @@ A curated set of papers along with code.
 
 
 
-
 ### [Polarization in Image Enhancement]()
 
 * __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020), _Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, Wenxiu Sun, and Qifeng Chen_. [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment), CVPR. **dataset**
@@ -58,13 +57,12 @@ A curated set of papers along with code.
 * __Clear underwater vision__, (2004)
 
 ### [Polarization in Image Segmentation and Detection]()
-* __Deep Polarization Cues for Transparent Object Segmentation__, (2020), **dataset**
+* __Deep Polarization Cues for Transparent Object Segmentation__, (2020),  [Link](https://kalraa.github.io/)
 * __HDR Reconstruction Based on the Polarization Camera__, (2020)
 * __A New Multimodal RGB and Polarimetric Image Dataset for Road Scenes Analysis__, (2020), [dataset](http://pagesperso.litislab.fr/rblin/databases/)
 * __Outdoor Scenes Pixel-wise Semantic Segmentation using Polarimetry and Fully Convolutional Network__, (2019), **datast**
 * __Road scenes analysis in adverse weather conditions bypolarization-encoded images and adapted deep learning__, (2019)
 * __Adapted learning for polarization-based car detection__, (2019)
-* 
 
 
 ### [Polarization in Other Tasks]()
@@ -82,6 +80,7 @@ A curated set of papers along with code.
 ## [Books]()
 
 * [Field Guide to Polarization](https://www.spiedigitallibrary.org/ebooks/FG/Field-Guide-to-Polarization/eISBN-9780819478207/10.1117/3.626141)
+* [Computational Imaging Book 2022](https://imagingtext.github.io/)  (Section 7  Polarimetric Imaging)
 
 
 ## Lecture Videos 
@@ -107,9 +106,12 @@ A curated set of papers along with code.
 * __synthetic foggy dataset__[[Link]](https://github.com/fourson/Learning-to-dehaze-with-polarization)\
   __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset
 
-## Workshops
-
-
+## Tools
+* __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
 
 ## Research groups
-
+* __Camera Intelligence Lab @PKU__[[Link]](https://ci.idm.pku.edu.cn/Publication.htm)
+* __Visual Intelligence Lab @HKUST__[[Link]](https://ece.hkust.edu.hk/research/areas)
+* __ImViA & LITIS Lab__ French ICUB project[[Link]](https://anr.fr/Project-ANR-17-CE22-0011)
+* __Kaiwei Wang's Group @ZJU__[[Link]](http://www.wangkaiwei.org/project.html)
+* __Visual Machines Group @UCLA__[[Link]](https://visual.ee.ucla.edu/)
