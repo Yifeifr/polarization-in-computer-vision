@@ -1,7 +1,6 @@
 # polarization-in-computer-vision
-A collection of polarization-based models in computer vision.
+A collection of polarization-based models in computer vision. Main interest lies in scene understanding.
 
-Fork from ChenyangLEI's work. 
 
 # [Table of Contents]()
 
