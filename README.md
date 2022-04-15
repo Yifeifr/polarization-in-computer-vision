@@ -70,6 +70,7 @@ A curated set of papers along with code.
 * __Polarized Optical-Flow Gyroscope__, (2020), ECCV
 * __Monochrome and color polarization demosaicking using edge-aware residual interpolation__, (2020)
 * __Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario__, (2020)
+* __Attitude Estimation from Polarimetric Cameras__, (2018)
 * __Survey of demosaicking methods for polarization filter array images__, (2018)
 * __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
 * __Polarization imaging reflectometry in the wild__, (2017)
@@ -112,6 +113,6 @@ A curated set of papers along with code.
 ## Research groups
 * __Camera Intelligence Lab @PKU__[[Link]](https://ci.idm.pku.edu.cn/Publication.htm)
 * __Visual Intelligence Lab @HKUST__[[Link]](https://ece.hkust.edu.hk/research/areas)
-* __ImViA & LITIS Lab__ French ICUB project[[Link]](https://anr.fr/Project-ANR-17-CE22-0011)
+* __ImViA & LITIS Lab__ French ICUB project[[Link]](https://anr.fr/Project-ANR-17-CE22-0011)　VIPeR project[[Link]](https://anr.fr/Project-ANR-15-CE22-0009)
 * __Kaiwei Wang's Group @ZJU__[[Link]](http://www.wangkaiwei.org/project.html)
 * __Visual Machines Group @UCLA__[[Link]](https://visual.ee.ucla.edu/)
