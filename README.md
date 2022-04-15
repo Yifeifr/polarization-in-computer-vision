@@ -113,6 +113,6 @@ A curated set of papers along with code.
 ## Research groups
 * __Camera Intelligence Lab @PKU__[[Link]](https://ci.idm.pku.edu.cn/Publication.htm)
 * __Visual Intelligence Lab @HKUST__[[Link]](https://ece.hkust.edu.hk/research/areas)
-* __ImViA & LITIS Lab__ French ICUB project[[Link]](https://anr.fr/Project-ANR-17-CE22-0011)　VIPeR project[[Link]](https://anr.fr/Project-ANR-15-CE22-0009)
+* __ImViA & LITIS Lab__   French ICUB project[[Link]](https://anr.fr/Project-ANR-17-CE22-0011)　VIPeR project[[Link]](https://anr.fr/Project-ANR-15-CE22-0009)
 * __Kaiwei Wang's Group @ZJU__[[Link]](http://www.wangkaiwei.org/project.html)
 * __Visual Machines Group @UCLA__[[Link]](https://visual.ee.ucla.edu/)
