@@ -1,5 +1,5 @@
 # polarization-in-computer-vision
-A collection of polarization-based models in computer vision, including shape from polarization, polarization-based reflection removal.
+A collection of polarization-based models in computer vision.
 
 Fork from ChenyangLEI's work. 
 
@@ -7,11 +7,10 @@ Fork from ChenyangLEI's work.
 
 * [Papers and Code](#Papers-and-Code)
 * [Books](#Books)
-* [Blogs](#Blogs)
 * [Lecture Videos]()
 * [Datasets](#Datasets)
 * [Workshops](#Workshops)
-* [Researchers](#Researchers)
+* [Research groups](#Research-groups)
 
 
 ## [Papers and Code]()
@@ -86,33 +85,32 @@ A curated set of papers along with code.
 * [Field Guide to Polarization](https://www.spiedigitallibrary.org/ebooks/FG/Field-Guide-to-Polarization/eISBN-9780819478207/10.1117/3.626141)
 
 
-
-
-## Blogs
-
-
-
 ## Lecture Videos 
-
-
-
-
+* __Sony polarsens__[[Introduction]](https://www.youtube.com/watch?v=cvT3t66dbMk)[[Application]](https://www.youtube.com/watch?v=Stsfnwdt09Y)
 
 ## Datasets
 
-* PolarLITIS dataset[[More]](https://pagesperso.litislab.fr/rblin/databases/)
-
-   Format: (I0, I45, I135), (S0, S1, S2),(S0, AOP, DOP)   Task: Object detection   Num.:2K+ Polar/RGB  Other:  good and adverse weather conditions
-* PolarBot dataset[[More]](https://pagesperso.litislab.fr/rblin/databases/)
-
+* __PolarLITIS dataset__[[Link]](https://pagesperso.litislab.fr/rblin/databases/)\
+  __Format__: (I0, I45, I135), (S0, S1, S2),(S0, AOP, DOP)　　　　 __Task__: Object detection　　　　 __Scene__: road scenes \
+  __Num.__:2K+ Polar-mono/RGB　　　 __pCamera__: Polarcam 4D　　　 __Other__:  adverse weather conditions( foggy, sunny and cloudy)
+* __PolarBot dataset__[[Link]](http://vibot.cnrs.fr/polabot.html)\
+  __Format__: HSV 　　　　 __Task__: semantic segmentation　　　　 __Scene__: outdoor road scenes \
+  __Num.__: 200+ Polar/BGR　　　 __pCamera__: Polarcam　　　 __Other__:  with segmentation GT, data augmentation
+* __Zhejiang university pRGB dataset___[[Link]](http://www.wangkaiwei.org/download.html)\
+  __Format__: stereo polarized RGB 　　　 __Task__: polarization information prediction　　　 __Scene__: road scenes \
+  __Num.__: 9736 Polar/RGB　　　 __pCamera__: Polarcam　　　 __Other__:  Polarization difference GT,  wearable robots
+* __deepSfP dataset__[[Link]](https://visual.ee.ucla.edu/deepsfp.htm)\
+  __Format__: 4ch_polar/object GT/normal GT 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
+  __Num.__: 300 images　　　 __pCamera__: Lucid Vision Phoenix　　　 __Other__:  33 scanned objects, indoor/outdoor sunny/outdoor cloudy
+* __SPW dataset__[[Link]](https://github.com/ChenyangLEI/sfp-wild)\
+  __Format__: polar-mono/normal GT 　　　 __Task__: 3D Reconstruction　　　 __Scene__: real-world \
+  __Num.__: 522 images　　　 __pCamera__: Lucid Vision Phoenix　　　 __Other__:   100 different scenes, near-field depth
+* __synthetic foggy dataset__[[Link]](https://github.com/fourson/Learning-to-dehaze-with-polarization)\
+  __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset
 
 ## Workshops
 
 
 
-## Researchers
-
-
-
-## Contributions
+## Research groups
 
