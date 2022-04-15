@@ -50,6 +50,7 @@ A curated set of papers along with code.
 
 ### [Polarization in Image Enhancement]()
 
+* __Multi-polarization fusion generative adversarial networks for clear underwater imaging__, (2022), underwater dataset
 * __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020), _Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, Wenxiu Sun, and Qifeng Chen_. [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment), CVPR. **dataset**
 * __Reflection separation using a pair of unpolarized and polarized images__, (2019)
 * __Image dehazing using polarization effects of objects and airlight__, (2014)
