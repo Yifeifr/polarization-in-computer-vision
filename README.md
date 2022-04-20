@@ -99,15 +99,20 @@ A curated set of papers along with code.
 * __Zhejiang university pRGB dataset___[[Link]](http://www.wangkaiwei.org/download.html)\
   __Format__: stereo polarized RGB 　　　 __Task__: polarization information prediction　　　 __Scene__: road scenes \
   __Num.__: 9736 Polar/RGB　　　 __pCamera__: Polarcam　　　 __Other__:  Polarization difference GT,  wearable robots
+* __synthetic foggy dataset__[[Link]](https://github.com/fourson/Learning-to-dehaze-with-polarization)\
+  __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset \
+Datasets for 3D Reconstruction: \
 * __deepSfP dataset__[[Link]](https://visual.ee.ucla.edu/deepsfp.htm)\
   __Format__: 4ch_polar/object GT/normal GT 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
   __Num.__: 300 images　　　 __pCamera__: Lucid Vision Phoenix　　　 __Other__:  33 scanned objects, indoor/outdoor sunny/outdoor cloudy
 * __SPW dataset__[[Link]](https://github.com/ChenyangLEI/sfp-wild)\
   __Format__: polar-mono/normal GT 　　　 __Task__: 3D Reconstruction　　　 __Scene__: real-world \
   __Num.__: 522 images　　　 __pCamera__: Lucid Vision Phoenix　　　 __Other__:   100 different scenes, near-field depth
-* __synthetic foggy dataset__[[Link]](https://github.com/fourson/Learning-to-dehaze-with-polarization)\
-  __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset
+* __KAUST dataset__[[Link]](https://repository.kaust.edu.sa/handle/10754/631914)\
+  __Format__: 4ch_polar/AoLP/DoLP/HSV 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
+  __Num.__: 100 images/per polar-angle　　　 __pCamera__: rotating polarizer in front of a point grey color camera　　　 __Other__:  test code available
 
+  
 ## Tools
 * __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
 
