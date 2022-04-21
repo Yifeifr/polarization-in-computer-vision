@@ -116,8 +116,8 @@ A curated set of papers along with code.
   __Format__: 4ch_polar/AoLP/DoLP/HSV 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
   __Num.__: 100 images/per polar-angle　　　 __pCamera__: rotating polarizer in front of a point grey color camera　　　 __Other__:  test code available
 #### Others: 
-* __KAIST Dataset of polarimetric BRDF__[[Link]](http://vclab.kaist.ac.kr/siggraph2020/pbrdfdataset/kaistdataset.html)\
-* __Polarization Human Shape and Pose Dataset__[[Link]](https://jimmyzou.github.io/publication/2020-PHSPDataset)\
+* __KAIST Dataset of polarimetric BRDF__[[Link]](http://vclab.kaist.ac.kr/siggraph2020/pbrdfdataset/kaistdataset.html)
+* __Polarization Human Shape and Pose Dataset__[[Link]](https://jimmyzou.github.io/publication/2020-PHSPDataset)
 
 ## Tools
 * __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
