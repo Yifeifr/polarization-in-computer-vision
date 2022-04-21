@@ -19,6 +19,7 @@ A curated set of papers along with code.
 
 ### [Polarization in 3D Computer Vision]()
 
+* __CroMo: Cross-Modal Learning for Monocular Depth Estimation__, (2022), CVPR, [code](https://cromo-data.github.io/). 
 * __Shape from Polarization for Complex Scenes in the Wild__, (2022), CVPR, [code](https://github.com/ChenyangLEI/sfp-wild). 
 * __Polarimetric Helmholtz Stereopsis__, (2021), ICCV. 
 * __Polarimetric Normal Stereo__, (2021), CVPR. 
@@ -100,7 +101,10 @@ A curated set of papers along with code.
   __Format__: stereo polarized RGB 　　　 __Task__: polarization information prediction　　　 __Scene__: road scenes \
   __Num.__: 9736 Polar/RGB　　　 __pCamera__: Polarcam　　　 __Other__:  Polarization difference GT,  wearable robots
 * __synthetic foggy dataset__[[Link]](https://github.com/fourson/Learning-to-dehaze-with-polarization)\
-  __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset \
+  __Task__: image dehazing　　　　 __Scene__: synthetic/outdoor 　　　__Other__:   based on Foggy Cityscapes dataset 
+* __CroMo dataset__[[Link]](https://cromo-data.github.io/)\
+  __Task__: depth estimation　　　　 __Scene__: outdoor 　　　__Other__:  multi-modality/large-scale   
+  __pCamera__:stereo polarisation, indirect ToF, structured light depth and IMU
 #### For 3D Reconstruction: 
 * __deepSfP dataset__[[Link]](https://visual.ee.ucla.edu/deepsfp.htm)\
   __Format__: 4ch_polar/object GT/normal GT 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
@@ -111,12 +115,14 @@ A curated set of papers along with code.
 * __KAUST dataset__[[Link]](https://repository.kaust.edu.sa/handle/10754/631914)\
   __Format__: 4ch_polar/AoLP/DoLP/HSV 　　　 __Task__: 3D Reconstruction　　　 __Scene__: objects \
   __Num.__: 100 images/per polar-angle　　　 __pCamera__: rotating polarizer in front of a point grey color camera　　　 __Other__:  test code available
+#### Others: 
+* __KAIST Dataset of polarimetric BRDF__[[Link]](http://vclab.kaist.ac.kr/siggraph2020/pbrdfdataset/kaistdataset.html)\
+* __Polarization Human Shape and Pose Dataset__[[Link]](https://jimmyzou.github.io/publication/2020-PHSPDataset)\
 
-  
 ## Tools
 * __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
 * __Mitsuba 2: A retargetable forward and inverse renderer__ [[Link]](https://www.mitsuba-renderer.org/)
-* __UnrealEngine:  the world’s most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.__ [[Link]](https://github.com/orgs/EpicGames/repositories)[[AirSim]](https://github.com/microsoft/AirSim)
+* __Unreal Engine:  the world’s most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.__ [[Link]](https://github.com/orgs/EpicGames/repositories)[[AirSim]](https://github.com/microsoft/AirSim)
 
 ## Research groups
 * __Camera Intelligence Lab @PKU__[[Link]](https://ci.idm.pku.edu.cn/Publication.htm)
