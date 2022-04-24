@@ -123,7 +123,7 @@ A curated set of papers along with code.
 * __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
 * __Mitsuba 2: A retargetable forward and inverse renderer__ [[Link]](https://www.mitsuba-renderer.org/)
 * __Unreal Engine:  the world’s most open and advanced real-time 3D creation platform for photoreal visuals and immersive experiences.__ [[Link]](https://github.com/orgs/EpicGames/repositories)[[AirSim]](https://github.com/microsoft/AirSim)
-* __A practical calibration method for RGB micro-grid polarimetric cameras__, (2022)[[Link]](https://github.com/vibot-lab/PoliCalibration)\
+* __A practical calibration method for RGB micro-grid polarimetric cameras__, (2022)[[Link]](https://github.com/vibot-lab/PoliCalibration)
 
 ## Research groups
 * __Camera Intelligence Lab @PKU__[[Link]](https://ci.idm.pku.edu.cn/Publication.htm)
