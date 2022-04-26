@@ -118,6 +118,7 @@ A curated set of papers along with code.
 #### Others: 
 * __KAIST Dataset of polarimetric BRDF__[[Link]](http://vclab.kaist.ac.kr/siggraph2020/pbrdfdataset/kaistdataset.html)
 * __Polarization Human Shape and Pose Dataset__[[Link]](https://jimmyzou.github.io/publication/2020-PHSPDataset)
+* __Polarization-based Reflection Removal Dataset__[[Link]](https://alexzhao-hugga.github.io/Real-World-Reflection-Removal/Polarized%20Dataset.html)
 
 ## Tools
 * __A Polarizing Filter Function for Real-Time Rendering__[[pdf]](https://jcgt.org/published/0010/02/03/)[[demo]](https://www.youtube.com/watch?v=3nMkQh3mKsI)
